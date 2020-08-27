@@ -1,0 +1,7 @@
+C:\Users\saria\source\repos\Sariah_assign2_RPG_Game\bin\Debug\Sariah_assign2_RPG_Game.exe.config
+C:\Users\saria\source\repos\Sariah_assign2_RPG_Game\bin\Debug\Sariah_assign2_RPG_Game.exe
+C:\Users\saria\source\repos\Sariah_assign2_RPG_Game\bin\Debug\Sariah_assign2_RPG_Game.pdb
+C:\Users\saria\source\repos\Sariah_assign2_RPG_Game\obj\Debug\Sariah_assign2_RPG_Game.csprojAssemblyReference.cache
+C:\Users\saria\source\repos\Sariah_assign2_RPG_Game\obj\Debug\Sariah_assign2_RPG_Game.csproj.CoreCompileInputs.cache
+C:\Users\saria\source\repos\Sariah_assign2_RPG_Game\obj\Debug\Sariah_assign2_RPG_Game.exe
+C:\Users\saria\source\repos\Sariah_assign2_RPG_Game\obj\Debug\Sariah_assign2_RPG_Game.pdb
