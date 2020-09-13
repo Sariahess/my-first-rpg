@@ -69,11 +69,11 @@ namespace Sariah_assign2_RPG_Game
             CreateMonster("rabbit", 0, 0, 30, 40, MonsterType.docile);
             CreateMonster("skeleton", 9, 0, 50, 50, MonsterType.docile);
             CreateMonster("zombie", 15, 0, 80, 100, MonsterType.docile);
-            CreateMonster("orcs", 15, 5, 100, 150, MonsterType.aggressive);
+            CreateMonster("orcs", 15, 6, 100, 150, MonsterType.aggressive);
             CreateMonster("warlock", 23, 4, 150, 200, MonsterType.aggressive);
-            CreateMonster("demon", 28, 12, 100, 350, MonsterType.aggressive);
-            CreateMonster("Minotaur", 51, 39, 100, 1000, MonsterType.boss);
-            CreateMonster("Doppleganger", 61, 43, 100, 2000, MonsterType.boss);
+            CreateMonster("demon", 28, 9, 100, 350, MonsterType.aggressive);
+            CreateMonster("Minotaur", 51, 15, 100, 1000, MonsterType.boss);
+            CreateMonster("Doppleganger", 61, 19, 100, 2000, MonsterType.boss);
         }
 
         public Monster ChooseMonster(List<Monster> genericOrBoss)
